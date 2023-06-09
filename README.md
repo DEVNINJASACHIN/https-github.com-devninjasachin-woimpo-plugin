@@ -22,6 +22,6 @@ Get started with the WOIMpo Plugin today and unlock the full potential of your W
 - Author: Sachin Sharma
 - License: GPL2
 
-**Note:** This plugin was developed by Sachin Sharma and is actively maintained and supported. For more information and updates, please visit [WOIMpo Plugin GitHub Repository](https://github.com/devninjasachin/woimpo-plugin).
+**Note:** This plugin was developed by Sachin Sharma and is actively maintained and supported. For more information and updates, please visit [WOIMpo Plugin GitHub Repository](https://github.com/DEVNINJASACHIN/https-github.com-devninjasachin-woimpo-plugin).
 
 ---
